@@ -77,8 +77,8 @@ Together, our legal and technical frameworks not only make The Deed Protocol a r
 ## Conclusion: Your Invitation to Shape the Future
 
 The journey with The Deed Protocol represents more than an adoption of a new platform; it signifies joining a community set to redefine the future of property ownership. We invite everyone, from tech aficionados to real estate giants, to be part of this transformative journey:
-- **Learn More and Explore:** Visit [Deed3Labs](https://deed3.io) to understand the depth of our mission and technologies.
-- **Join the Community:** Contribute your insights and engage in discussions on our [Deed3 Discord Server](https://discord.gg/yourserver).
+- **Learn More and Explore:** Visit [Deed3Labs](https://docs.deedprotocol.org) to understand the depth of our legal and technological frameworks.
+- **Join the Community:** Contribute your insights and engage in discussions on our [Deed3 Discord Server](https://discord.gg/nBKtAHhu4P).
 - **Share Your Thoughts and Innovations:** We value your feedback and ideas; reach out at hello@deed3.io.
 
 Your voice, your innovation, and your feedback aren't just welcome; they are crucial. We invite you to not just witness but actively shape a future where ownership is transparent, transactions are seamless, and everyone, from anywhere, can be a property owner. 
