@@ -54,7 +54,8 @@ In this collaborative environment, everyone from government bodies to financial 
 
 ## The Legal and Technical Frameworks: Reinventing Ownership
 
-**Deed3Labs** is not just revolutionizing the way assets are managed; we are also redefining the essence of ownership itself. Our approach is grounded in a robust legal and technical framework that ensures digital ownership is not just a concept but a tangible reality, mirroring and even enhancing the traditional sense of property ownership```markdown
+**Deed3Labs** is not just revolutionizing the way assets are managed; we are also redefining the essence of ownership itself. Our approach is grounded in a robust legal and technical framework that ensures digital ownership is not just a concept but a tangible reality, mirroring and even enhancing the traditional sense of property ownership.
+
 **Legal Framework: Tokenizing Deeds and Titles**
 
 At the core of The Deed Protocol is our unwavering commitment to legal fidelity and compliance. We don't merely digitize aspects of property; we fundamentally alter what digital ownership means by tokenizing the actual **Deed and Title interest** of real property:
