@@ -48,7 +48,7 @@ This toolkit isn't just about maintaining the status quo; it's about setting new
 
 The traditional landscape of asset management, fragmented and siloed, is ripe for transformation. The Deed Protocol doesn't just offer a new system; it offers a new perspective:
 - **Turning Competitors into Collaborators:** We transform potential market rivals into allies, uniting under a banner of efficiency and transparency.
-- **A United Front:** By addressing the needs of a diverse array of stakeholders, we pave the way for a unified market.
+- **A United Front:** By addressing the needs of a diverse array of participants, we pave the way for a unified market.
 
 In this collaborative environment, everyone from government bodies to financial institutions can find a place to grow and innovate.
 
