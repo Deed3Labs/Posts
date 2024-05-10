@@ -2,7 +2,7 @@
 
 As we stand at the precipice of a new digital era, **Deed3Labs** is poised to redefine the landscape of real-world asset management. In the bustling world of Web3, where innovation meets legacy systems, our initiative bridges the gap, ensuring that everyone, from tech enthusiasts to traditional investors, can participate in a transparent and equitable digital economy.
 
-## The Deed Protocol: Bridging Worlds with Innovatio
+## The Deed Protocol: Bridging Worlds with Innovation
 
 **The Deed Protocol** represents a bold leap forward, combining the immutable trust of blockchain with the tangible assets of the real world, such as property and vehicles. This isn't merely a technical upgrade; it's a comprehensive overhaul of how we perceive ownership and transactions:
 - **Embracing the Future:** Developing a system that aligns with future expectations for greater liquidity, efficiency, and transparency within Real-World Asset markets.
