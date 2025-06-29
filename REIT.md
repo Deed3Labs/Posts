@@ -180,6 +180,125 @@ We partner with vetted modular, tiny, and manufactured home builders to **increa
 This creates a **financing gap**, which our fund directly addresses.
 
 ---
+Here's a polished and well-researched expansion of your strategy that you can integrate into your investor materials under a new subsection called **"Incremental & Infill Development Strategy (Backyard ADUs & Urban Lots)"** within your strategic focus. This version refines your concept into an investable model with economic justification, real-world comparisons, and illustrative numbers.
+
+---
+
+### 🧩 **Incremental & Infill Development Strategy (Backyard ADUs & Urban Lots)**
+
+To help meet urgent housing demand in urban areas and generate near-term returns, the fund will pursue a **dual-pronged infill development strategy** focused on:
+
+1. **Acquiring vacant infill lots** in cities for modular/tiny home placement
+2. **Entering long-term ground leases with homeowners** to place **Accessory Dwelling Units (ADUs)** in backyards
+
+This approach complements our master-planned developments by generating **incremental income** and helping cities achieve state and local housing mandates (such as California’s ADU expansion laws), while creating shared upside for landowners and investors.
+
+---
+
+#### 🏠 **How the Ground Lease ADU Model Works**
+
+We identify homeowners with **large or underutilized backyards** (typically 3,500+ sq ft lots in urban/suburban areas) where a **modular ADU (300–700 sq ft)** can legally be placed. These homeowners agree to **ground lease a portion of their land** for **10–30 years**, allowing the fund to place and operate an income-producing rental unit on their property.
+
+> **The homeowner retains full ownership** of their home and land, benefits from appreciation and lease income, while the fund builds and manages the ADU.
+
+---
+
+### 🔄 **Lifecycle Example**
+
+#### Phase 1: Setup
+
+| **Step**                     | **Description**                                                   |
+| ---------------------------- | ----------------------------------------------------------------- |
+| Homeowner signs ground lease | Fund leases 400–600 sq ft of backyard for 15–25 years             |
+| Permits & placement          | Fund manages permitting, installs utility hookups, and places ADU |
+| Ownership                    | Fund retains ownership of the ADU and rights to rental income     |
+
+---
+
+#### Phase 2: Operation
+
+| **Revenue Stream**            | **Amount**                                                |
+| ----------------------------- | --------------------------------------------------------- |
+| Rent from ADU                 | \$1,800/month (typical for 1-bed ADU in CA/urban markets) |
+| Homeowner ground lease payout | \$300/month base + 10% of gross rent = \$480/month total  |
+| Net to Fund                   | \~\$1,320/month before property management and ops        |
+
+---
+
+#### Phase 3: Exit/Buyout (Optional)
+
+* After lease term, ADU may:
+
+  * Be **removed and relocated** by the fund
+  * Be **sold to homeowner at depreciated cost or residual value**
+  * Convert into **shared ownership** structure through tokenized asset distribution (if allowed)
+
+---
+
+### 📊 **Financial Illustration (Per ADU)**
+
+**Assumptions**:
+
+* ADU Cost (delivered & installed): \$85,000
+* Monthly Rent: \$1,800
+* Homeowner Payout: \$480
+* Fund Net: \$1,320/month
+* Annual NOI (before fund ops/PM fees): \~\$15,840
+* ROI Year 1 (unleveraged): **18.6%**
+* Breakeven: \~5.5 years
+
+**If financed with 60% LTV (at 7%)**:
+
+* Debt service: \~\$4,300/year
+* Cash-on-cash yield: **25%+**
+
+---
+
+### 🧮 **Homeowner Benefits**
+
+| **Income Stream**               | **Amount**                             |
+| ------------------------------- | -------------------------------------- |
+| Ground Lease (Base)             | \$3,600/year                           |
+| 10% of Rents (Royalty)          | \~\$2,520/year                         |
+| **Total Annual Passive Income** | **\~\$6,120/year** for unused backyard |
+
+Plus:
+
+* **Increased property value** due to added unit
+* **No out-of-pocket costs** for construction
+* Can exit or extend lease with optional buyout/flexibility
+
+---
+
+### 🛠️ **Strategic Advantages for the Fund**
+
+* **Lower capital requirements per unit** compared to full land+structure developments
+* **Faster deployment** (\~30–90 days from permit to placement)
+* Access to **dense, high-demand urban rental markets**
+* Allows the fund to **scale rapidly** while diversifying income
+
+---
+
+### 📍 Real-World Precedents & Policy Support
+
+* **California** (Senate Bills 9 & 13, and AB 68) has strongly deregulated ADU placement on residential parcels.
+* Cities like **Los Angeles, San Diego, Portland, Austin**, and **Seattle** have fast-track ADU programs.
+* Many programs allow **pre-approved modular builders**, reducing regulatory friction.
+
+> This aligns the fund with public policy, ESG goals, and investor mandates for sustainable housing solutions.
+
+---
+
+### 🧠 Strategic Integration
+
+By pairing our long-term land/community developments with infill ADU deployment, the fund creates **two income engines**:
+
+* **High-yield near-term cash flow** (ADUs and modular infill)
+* **Long-term capital appreciation** (planned communities with infrastructure control)
+
+Both support the growth of the fund’s NAV and create **token-backed dividend sustainability**.
+
+---
 
 #### 💵 **Acting as a Direct Lender & Underwriter**
 
