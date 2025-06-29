@@ -100,6 +100,8 @@ Receives: **100,000 tokens** (valued at \~\$1.00 per token)
 
 **📥 Investor Return: \$8,000 (8.00% yield)**
 
+> Since the hurdle is met but not exceeded, **no performance fee is taken**
+
 ---
 
 #### 📊 **Year 2 Performance**
