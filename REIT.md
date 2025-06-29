@@ -161,7 +161,7 @@ This growth-focused approach supports token value growth and acts as a **natural
 The fund acquires undervalued or undeveloped land in key high-growth or affordable markets. Once acquired, we oversee the **entire land planning and development process**, including:
 
 * Designing **community site plans and parcel maps**
-* Installing essential infrastructure: **roads, grading, water systems, septic, power lines, and fiber**
+* Installing essential infrastructure: **roads, grading, water systems, septic, power lines, and etc.**
 * **Zoning and entitlement approvals** to support residential mixed-use
 * Establishing pads and utility-ready lots to reduce construction friction
 
