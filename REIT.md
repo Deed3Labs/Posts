@@ -180,7 +180,7 @@ This approach complements our master-planned developments by generating **increm
 
 ---
 
-##### 🏠 **How the Ground Lease ADU Model Works**
+#### 🏠 **How the Ground Lease ADU Model Works**
 
 We identify homeowners with **large or underutilized backyards** (typically 3,500+ sq ft lots in urban/suburban areas) where a **modular ADU (300–700 sq ft)** can legally be placed. These homeowners agree to **ground lease a portion of their land** for **10–30 years**, allowing the fund to place and operate an income-producing rental unit on their property.
 
@@ -190,7 +190,7 @@ We identify homeowners with **large or underutilized backyards** (typically 3,50
 
 #### 🔄 **Lifecycle Example**
 
-##### Phase 1: Setup
+#### Phase 1: Setup
 
 | **Step**                     | **Description**                                                   |
 | ---------------------------- | ----------------------------------------------------------------- |
@@ -200,7 +200,7 @@ We identify homeowners with **large or underutilized backyards** (typically 3,50
 
 ---
 
-##### Phase 2: Operation
+#### Phase 2: Operation
 
 | **Revenue Stream**            | **Amount**                                                |
 | ----------------------------- | --------------------------------------------------------- |
@@ -210,7 +210,7 @@ We identify homeowners with **large or underutilized backyards** (typically 3,50
 
 ---
 
-##### Phase 3: Exit/Buyout (Optional)
+#### Phase 3: Exit/Buyout (Optional)
 
 * After lease term, ADU may:
 
