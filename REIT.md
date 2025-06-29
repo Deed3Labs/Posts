@@ -49,6 +49,8 @@ Unlike traditional private REITs, this fund offers potential liquidity:
 
 ![REIT Structure Diagram-3](https://github.com/user-attachments/assets/6ca4fde3-5461-4027-abd9-0146472895e1)
 
+![DeedExchange Diagram-2](https://github.com/user-attachments/assets/4b9e01d0-7fd5-481a-a4c7-c9bce5839221)
+
 ---
 
 * **General Partner (GP)**:
