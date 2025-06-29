@@ -47,11 +47,7 @@ Unlike traditional private REITs, this fund offers potential liquidity:
 * **Blockchain-Powered Reporting**
   Through The Deed Protocol, investors can **verify ownership, track transfers, and monitor performance on-chain**, ensuring a level of transparency that traditional REITs often lack.
 
-![REIT Structure Diagram-2](https://github.com/user-attachments/assets/c491251e-45de-44d9-9d9a-1a33d7991d6e)
-
-
-
-
+![REIT Structure Diagram-3](https://github.com/user-attachments/assets/6ca4fde3-5461-4027-abd9-0146472895e1)
 
 ---
 
