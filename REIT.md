@@ -169,7 +169,7 @@ This vertically integrated approach allows us to add significant value to the la
 
 ---
 
-### 🧩 **Incremental & Infill Development Strategy (Backyard ADUs & Urban Lots)**
+#### 🧩 **Incremental & Infill Development Strategy (Backyard ADUs & Urban Lots)**
 
 To help meet urgent housing demand in urban areas and generate near-term returns, the fund will pursue a **dual-pronged infill development strategy** focused on:
 
@@ -180,7 +180,7 @@ This approach complements our master-planned developments by generating **increm
 
 ---
 
-#### 🏠 **How the Ground Lease ADU Model Works**
+##### 🏠 **How the Ground Lease ADU Model Works**
 
 We identify homeowners with **large or underutilized backyards** (typically 3,500+ sq ft lots in urban/suburban areas) where a **modular ADU (300–700 sq ft)** can legally be placed. These homeowners agree to **ground lease a portion of their land** for **10–30 years**, allowing the fund to place and operate an income-producing rental unit on their property.
 
@@ -188,9 +188,9 @@ We identify homeowners with **large or underutilized backyards** (typically 3,50
 
 ---
 
-### 🔄 **Lifecycle Example**
+#### 🔄 **Lifecycle Example**
 
-#### Phase 1: Setup
+##### Phase 1: Setup
 
 | **Step**                     | **Description**                                                   |
 | ---------------------------- | ----------------------------------------------------------------- |
@@ -200,7 +200,7 @@ We identify homeowners with **large or underutilized backyards** (typically 3,50
 
 ---
 
-#### Phase 2: Operation
+##### Phase 2: Operation
 
 | **Revenue Stream**            | **Amount**                                                |
 | ----------------------------- | --------------------------------------------------------- |
@@ -210,7 +210,7 @@ We identify homeowners with **large or underutilized backyards** (typically 3,50
 
 ---
 
-#### Phase 3: Exit/Buyout (Optional)
+##### Phase 3: Exit/Buyout (Optional)
 
 * After lease term, ADU may:
 
@@ -220,7 +220,7 @@ We identify homeowners with **large or underutilized backyards** (typically 3,50
 
 ---
 
-### 📊 **Financial Illustration (Per ADU)**
+#### 📊 **Financial Illustration (Per ADU)**
 
 **Assumptions**:
 
@@ -239,7 +239,7 @@ We identify homeowners with **large or underutilized backyards** (typically 3,50
 
 ---
 
-### 🧮 **Homeowner Benefits**
+#### 🧮 **Homeowner Benefits**
 
 | **Income Stream**               | **Amount**                             |
 | ------------------------------- | -------------------------------------- |
@@ -255,7 +255,7 @@ Plus:
 
 ---
 
-### 🛠️ **Strategic Advantages for the Fund**
+#### 🛠️ **Strategic Advantages for the Fund**
 
 * **Lower capital requirements per unit** compared to full land+structure developments
 * **Faster deployment** (\~30–90 days from permit to placement)
@@ -264,7 +264,7 @@ Plus:
 
 ---
 
-### 📍 Real-World Precedents & Policy Support
+#### 📍 Real-World Precedents & Policy Support
 
 * **California** (Senate Bills 9 & 13, and AB 68) has strongly deregulated ADU placement on residential parcels.
 * Cities like **Los Angeles, San Diego, Portland, Austin**, and **Seattle** have fast-track ADU programs.
@@ -274,7 +274,7 @@ Plus:
 
 ---
 
-### 🧠 Strategic Integration
+#### 🧠 Strategic Integration
 
 By pairing our long-term land/community developments with infill ADU deployment, the fund creates **two income engines**:
 
