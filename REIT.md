@@ -236,6 +236,6 @@ This is a **new generation of private REIT** — one that keeps the time-tested 
 * The GP remains aligned through “skin in the game” and performance-based compensation.
 * Blockchain brings transparency, faster execution, and simplified ownership tracking.
 
-> **It’s still real estate. It’s still a REIT. It’s just smarter, faster, and built on real value**
+> **It’s still Real Estate. It’s still a REIT. It’s just faster, smarter, and built on real value**
 
 ---
