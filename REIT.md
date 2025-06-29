@@ -134,10 +134,9 @@ If the NAV increases **5%** due to property appreciation:
 | Multiple, opaque fees              | Transparent 1.25% + 7.5%, no fee stacking                  |
 | Paper-based or illiquid shares     | Tokenized ownership, recorded on blockchain                |
 | Manual 1031/721 property exchanges | Instant, tax-deferred exchanges/contributions via DeedNFTs |
-| Long exit timelines                | Potential secondary liquidity via token sales              |
+| Limited exit options               | Redemption options with **potential secondary liquidity**  |
 | Opaque transaction mechanics       | On-chain transparency via The Deed Protocol                |
 | GP gets paid regardless            | Incentive-aligned fees after 8% hurdle                     |
-| Lock-ups & limited exit options    | Tokenized shares with **potential secondary liquidity**    |
 | Manual closings, delayed reporting | Real-time, on-chain settlement, traceable ownership        |
 
 ---
