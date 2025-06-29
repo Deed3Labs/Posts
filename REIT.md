@@ -169,21 +169,6 @@ This vertically integrated approach allows us to add significant value to the la
 
 ---
 
-#### 🏡 **Partnering with Modular, Tiny, and Manufactured Home Builders**
-
-We partner with vetted modular, tiny, and manufactured home builders to **increase housing supply** and affordability within these communities. These home types are in high demand but are often excluded from traditional lending programs due to:
-
-* Limited Fannie/Freddie conforming support
-* Unconventional appraisals or valuation methods
-* Perceived asset depreciation vs. appreciation dynamics
-
-This creates a **financing gap**, which our fund directly addresses.
-
----
-Here's a polished and well-researched expansion of your strategy that you can integrate into your investor materials under a new subsection called **"Incremental & Infill Development Strategy (Backyard ADUs & Urban Lots)"** within your strategic focus. This version refines your concept into an investable model with economic justification, real-world comparisons, and illustrative numbers.
-
----
-
 ### 🧩 **Incremental & Infill Development Strategy (Backyard ADUs & Urban Lots)**
 
 To help meet urgent housing demand in urban areas and generate near-term returns, the fund will pursue a **dual-pronged infill development strategy** focused on:
@@ -296,13 +281,25 @@ By pairing our long-term land/community developments with infill ADU deployment,
 * **High-yield near-term cash flow** (ADUs and modular infill)
 * **Long-term capital appreciation** (planned communities with infrastructure control)
 
-Both support the growth of the fund’s NAV and create **token-backed dividend sustainability**.
+Both support the growth of the fund’s NAV and creates cashflow for **dividend sustainability**.
+
+---
+
+#### 🏡 **Partnering with Modular, Tiny, and Manufactured Home Builders**
+
+We partner with vetted modular, tiny, and manufactured home builders to **increase housing supply** and affordability within these communities. These home types are in high demand but are often excluded from traditional lending programs due to:
+
+* Limited Fannie/Freddie conforming support
+* Unconventional appraisals or valuation methods
+* Perceived asset depreciation vs. appreciation dynamics
+
+This creates a **financing gap**, which our fund directly addresses.
 
 ---
 
 #### 💵 **Acting as a Direct Lender & Underwriter**
 
-To serve this unmet market demand, the fund also operates as a **direct lender or underwriter** for homebuyers purchasing modular or manufactured homes in our communities.
+To serve this unmet market demand, the fund also operates as a **direct lender or underwriter** for homebuyers purchasing tiny (ADUs), modular or manufactured homes in our communities.
 
 We offer:
 
