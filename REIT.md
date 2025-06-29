@@ -194,7 +194,7 @@ We identify homeowners with **large or underutilized backyards** (typically 3,50
 
 | **Step**                     | **Description**                                                   |
 | ---------------------------- | ----------------------------------------------------------------- |
-| Homeowner signs ground lease | Fund leases 400–600 sq ft of backyard for 15–25 years             |
+| Homeowner signs ground lease | Fund leases 400–850 sq ft of backyard for 10–30 years             |
 | Permits & placement          | Fund manages permitting, installs utility hookups, and places ADU |
 | Ownership                    | Fund retains ownership of the ADU and rights to rental income     |
 
