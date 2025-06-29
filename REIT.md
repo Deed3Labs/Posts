@@ -74,7 +74,7 @@ We’ve consolidated industry-standard practices into a **clear and aligned comp
 
 | **Fee Type**            | **Amount**                  | **Based On**          | **Purpose**                                                                   |
 | ----------------------- | --------------------------- | --------------------- | ----------------------------------------------------------------------------- |
-| **Fund Management Fee** | **1.25% annually**          | NAV (Net Asset Value) | Covers fund operations, administration, compliance, token infrastructure      |
+| **Fund Mgmt Fee**       | **1.25% annually**          | NAV (Net Asset Value) | Covers fund operations, administration, compliance, token infrastructure      |
 | **Property Mgmt Fee**   | **7.5%**                    | Gross rental income   | Standard rate for leasing, maintenance, tenant relations, and day-to-day ops  |
 | **Performance Fee**     | **15%** (after 8% return)   | After investor hurdle | Charged after investors (LPs) receive an 8% preferred return (“waterfall”)    |
 
