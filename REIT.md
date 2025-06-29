@@ -204,8 +204,8 @@ We identify homeowners with **large or underutilized backyards** (typically 3,50
 
 | **Revenue Stream**            | **Amount**                                                |
 | ----------------------------- | --------------------------------------------------------- |
-| Rent from ADU                 | \$1,800/month (typical for 1-bed ADU in CA/urban markets) |
-| Homeowner ground lease payout | \$300/month base + 10% of gross rent = \$480/month total  |
+| Rent from ADU                 | \$1,850/month (typical for 1-bed ADU in CA/urban markets) |
+| Homeowner ground lease payout | \$350/month base + 10% of gross rent = \$530/month total  |
 | Net to Fund                   | \~\$1,320/month before property management and ops        |
 
 ---
@@ -225,8 +225,8 @@ We identify homeowners with **large or underutilized backyards** (typically 3,50
 **Assumptions**:
 
 * ADU Cost (delivered & installed): \$85,000
-* Monthly Rent: \$1,800
-* Homeowner Payout: \$480
+* Monthly Rent: \$1,850
+* Homeowner Payout: \$530
 * Fund Net: \$1,320/month
 * Annual NOI (before fund ops/PM fees): \~\$15,840
 * ROI Year 1 (unleveraged): **18.6%**
@@ -243,9 +243,9 @@ We identify homeowners with **large or underutilized backyards** (typically 3,50
 
 | **Income Stream**               | **Amount**                             |
 | ------------------------------- | -------------------------------------- |
-| Ground Lease (Base)             | \$3,600/year                           |
-| 10% of Rents (Royalty)          | \~\$2,520/year                         |
-| **Total Annual Passive Income** | **\~\$6,120/year** for unused backyard |
+| Ground Lease (Base)             | \$4,200/year                           |
+| 10% of Rents (Royalty)          | \~\$2,220/year                         |
+| **Total Annual Passive Income** | **\~\$6,420/year** for unused backyard |
 
 Plus:
 
