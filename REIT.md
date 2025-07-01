@@ -151,7 +151,7 @@ This fund is not only focused on producing stable rental income but also on **dr
 
 * Multi-purpose zoning and modular home expansion
 * Transforming raw land into **mixed-use, modular, regenerative communities**
-* Incorporating **sustainable building practices**, off-grid technology, and smart/renewable infrastructure
+* Incorporating **sustainable building practices**, off-grid technology, and smart infrastructure
 * Driving long-term appreciation while generating income along the way
 
 This approach balances **consistent dividend income** with **capital appreciation**, reinforcing the value of investor tokens and helping maintain the **soft peg to NAV**.
@@ -173,7 +173,7 @@ This vertically integrated approach allows us to add significant value to the la
 
 ---
 
-#### 🧩 **Incremental & Infill Development Strategy (Backyard ADUs & Urban Lots)**
+#### 🧩 **Incremental & Infill Development (Backyard ADUs & Urban Lots)**
 
 To help meet urgent housing demand in urban areas and generate near-term returns, the fund will pursue a **dual-pronged infill development strategy** focused on:
 
