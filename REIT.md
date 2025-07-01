@@ -102,7 +102,7 @@ Receives: **100,000 tokens** (valued at \~\$1.00 per token)
 * **1.25% fund management fee** on NAV (\$1,250) → Net: \$8,000
 * **8% preferred return met** → GP earns no performance fee
 
-**📥 Investor Return: \$8,000 (8.00% yield)**
+**📥 Investor Return: \$8,000 (\~\8.00% yield)**
 
 > Since the hurdle is met but not exceeded, **no performance fee is taken**
 
@@ -111,13 +111,14 @@ Receives: **100,000 tokens** (valued at \~\$1.00 per token)
 #### 📊 **Year 2 Performance**
 
 * Rental income increases → 11% yield = \$11,000
-* PM fee (7.5%) = \$825 → Net: \$10,175
-* Fund fee (1.25%) = \$1,250 → Net: \$8,925
-* Preferred return = \$8,000 → **Excess = \$925**
-* **15% promote on excess** = \$138.75 to GP
-* **Net to investor: \$8,786.25**
+* NAV increases **5%** → Receives **5,000 tokens** (still pegged at \~\$1.00/token)
+* PM fee (7.5%) = \$825 → Net: \$15,175
+* Fund fee (1.25%) = \$1,250 → Net: \$13,925
+* Preferred return = \$8,000 → **Excess = \$5,925**
+* **15% promote on excess** = \$888.75 to GP
+* **Net to investor: \$13,036.25**
 
-**📈 Effective Yield: 8.79%**
+**📈 Effective Yield: \~\13.04%**
 
 ---
 
