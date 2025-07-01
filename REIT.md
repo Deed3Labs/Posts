@@ -102,7 +102,7 @@ Receives: **100,000 tokens** (valued at \~\$1.00 per token)
 * **1.25% fund management fee** on NAV (\$1,250) → Net: \$8,000
 * **8% preferred return met** → GP earns no performance fee
 
-**📥 Investor Return: \$8,000 (\~\8.00% yield)**
+**📥 Investor Return: \$8,000 (\~8.00% yield)**
 
 > Since the hurdle is met but not exceeded, **no performance fee is taken**
 
@@ -118,7 +118,7 @@ Receives: **100,000 tokens** (valued at \~\$1.00 per token)
 * **15% promote on excess** = \$888.75 to GP
 * **Net to investor: \$13,036.25**
 
-**📈 Effective Yield: \~\13.04%**
+**📈 Effective Yield: \~13.04%**
 
 ---
 
