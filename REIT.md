@@ -34,6 +34,8 @@ Unlike traditional private REITs, this fund offers potential liquidity:
 * **Token transfers** may occur within approved secondary markets, curated stablecoin pools, or through internal swap mechanisms.
 * The **soft-pegged token model** makes value tracking easy and supports investor confidence in secondary markets.
 
+![DeedExchange Diagram-2](https://github.com/user-attachments/assets/4b9e01d0-7fd5-481a-a4c7-c9bce5839221)
+
 ---
 
 ### 🧠 **Governance, Incentives & Management**
@@ -47,9 +49,7 @@ Unlike traditional private REITs, this fund offers potential liquidity:
 * **Blockchain-Powered Reporting**
   Through The Deed Protocol, investors can **verify ownership, track transfers, and monitor performance on-chain**, ensuring a level of transparency that traditional REITs often lack.
 
-![REIT Structure Diagram-3](https://github.com/user-attachments/assets/6ca4fde3-5461-4027-abd9-0146472895e1)
-
-![DeedExchange Diagram-2](https://github.com/user-attachments/assets/4b9e01d0-7fd5-481a-a4c7-c9bce5839221)
+![REIT Structure Diagram-4](https://github.com/user-attachments/assets/caeffdc6-ec50-4eec-8807-f20b5ec46304)
 
 ---
 
