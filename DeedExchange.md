@@ -38,6 +38,8 @@ It brings **transparency**, **automation**, and **programmability** to legacy re
 
 ## ✅ How The DeedExchange System Solves This — in Combination with a UPREIT
 
+![DeedExchange Diagram-2](https://github.com/user-attachments/assets/4b9e01d0-7fd5-481a-a4c7-c9bce5839221)
+
 ### 1. **Tokenization of Property into DeedNFTs**
 
 * All properties are **digitally wrapped** into DeedNFTs that include ownership rights, title info, and legal trust structures.
@@ -85,8 +87,6 @@ It brings **transparency**, **automation**, and **programmability** to legacy re
   No problem.
 * DeedNFTs can be **fractionalized** into smaller units backed by \$REUSD.
 * These units tradeable or redeemable inside the closed ecosystem, adding liquidity and enabling **partial contributions** to the UPREIT.
-
-![DeedExchange Diagram-2](https://github.com/user-attachments/assets/4b9e01d0-7fd5-481a-a4c7-c9bce5839221)
 
 ---
 
