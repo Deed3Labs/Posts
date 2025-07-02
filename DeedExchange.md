@@ -86,6 +86,8 @@ It brings **transparency**, **automation**, and **programmability** to legacy re
 * DeedNFTs can be **fractionalized** into smaller units backed by \$REUSD.
 * These units tradeable or redeemable inside the closed ecosystem, adding liquidity and enabling **partial contributions** to the UPREIT.
 
+![DeedExchange Diagram-2](https://github.com/user-attachments/assets/4b9e01d0-7fd5-481a-a4c7-c9bce5839221)
+
 ---
 
 ## ⚙️ Summary of Benefits
