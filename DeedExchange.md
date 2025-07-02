@@ -113,6 +113,6 @@ It brings **transparency**, **automation**, and **programmability** to legacy re
 
 ## 🧠 Final Thought
 
-> This system takes the friction, delays, and red tape out of 1031 and 721 exchanges — and replaces them with automated, validated, and tokenized workflows. It doesn’t just speed things up — it **unlocks new possibilities**: fractional exchanges, liquid real estate, and democratized investment.
+This system takes the friction, delays, and red tape out of 1031 and 721 exchanges — and replaces them with automated, validated, and tokenized workflows. It doesn’t just speed things up — it **unlocks new possibilities**: fractional exchanges, liquid real estate, and democratized investment.
 
 ---
